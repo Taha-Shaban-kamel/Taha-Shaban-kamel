@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<a href="https://taha-shaban-kamel.github.io/Portfolio/#">MyPersonalewebsite</a>
+<a href="https://taha-shaban-kamel.github.io/Portfolio/#"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](http://aoifeobrien.com/wp-content/uploads/2017/09/AOB-Portfolio.png)" target="_blank"></a></a>
 <h1 align="center">Hi 👋, I'm Taha Shaban</h1>
 <h3 align="center">Software Engineer || Frontend </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taha-Shaban-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="Taha-Shaban-kamel" /> </p>
