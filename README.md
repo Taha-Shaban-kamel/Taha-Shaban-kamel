@@ -4,6 +4,7 @@
 <h1 align="left">Hi 👋, I'm Taha Shaban</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<br>
 
 <h3 align="center">Software Engineer || Frontend </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taha-Shaban-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="Taha-Shaban-kamel" /> </p>
