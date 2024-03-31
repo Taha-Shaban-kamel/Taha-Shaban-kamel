@@ -2,7 +2,7 @@
 <a align="center" href="https://taha-shaban-kamel.github.io/Portfolio/#">MY Portfolio</a></a>
   
 
-  <h1>Hi 👋, I'm Taha Shaban</h1>
+  <h1 align="center">Hi 👋, I'm Taha Shaban</h1>
 
 
 
