@@ -2,7 +2,8 @@
 <a align="center" href="https://taha-shaban-kamel.github.io/Portfolio/#">MY Portfolio</a></a>
 
 <div>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?    cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?  cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
   <h1 align="left" width"50%" >Hi 👋, I'm Taha Shaban</h1>
   
 </div>
